@@ -10,9 +10,9 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import ListView from "./src/screens/components/list_view";
 import DetailView from "./src/screens/components/detail_view";
 
-import ScreenA from "./src/screens/drawer/screenA.js";
-import ScreenB from "./src/screens/drawer/screenB.js";
-import ScreenC from "./src/screens/drawer/screenC.js";
+import ScreenA from "./src/screens/drawer/screenA";
+import ScreenB from "./src/screens/drawer/screenB";
+import ScreenC from "./src/screens/drawer/screenC";
 
 
 
