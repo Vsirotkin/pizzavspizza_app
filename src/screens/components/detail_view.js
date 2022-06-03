@@ -8,7 +8,7 @@ class DetailView extends Component {
                 <Text style={styles.title}>Detail View</Text>
                 <Button
                     title="Click for Tabs"
-                    // onPress={() => this.props.navigation.navigate("Tabs")}
+                    onPress={() => this.props.navigation.navigate("Tabs")}
                 />
             </View>
         );
